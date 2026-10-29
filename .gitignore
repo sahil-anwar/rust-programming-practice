@@ -1,0 +1,9 @@
+target/
+*.exe
+*.pdb
+*.rlib
+*.rmeta
+.DS_Store
+.vscode/
+.idea/
+*.swp
